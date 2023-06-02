@@ -1,0 +1,6 @@
+pickleshare==0.7.5
+pandas==1.5.1
+numpy==1.24.2
+scikit-learn==1.2.1
+coloram==0.4.6
+Pillow==9.4.0

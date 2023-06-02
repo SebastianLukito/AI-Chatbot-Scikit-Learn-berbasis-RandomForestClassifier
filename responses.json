@@ -1,0 +1,408 @@
+{
+    "therapist_responses": {
+        "aku merasa (.*)": [
+            "Kenapa kamu merasa {0}, {name}?",
+            "Apa yang membuat kamu merasa {0}, {name}?",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "apa yang membuatku merasa (.*)": [
+            "Apakah ada hal atau situasi tertentu yang membuat kamu merasa {0}, {name}?",
+            "Apakah kamu bisa menjelaskan lebih detail mengenai faktor-faktor yang mempengaruhi perasaanmu {0}, {name}?"
+        ],
+        "kenapa aku merasa (.*)": [
+            "Apakah ada alasan spesifik mengapa kamu merasa {0}, {name}?",
+            "Apakah ada peristiwa atau perubahan dalam hidupmu yang berhubungan dengan perasaan {0}, {name}mu?"
+        ],
+        "mengapa (.*)": [
+            "Apakah kamu yakin bahwa {0}, {name}?",
+            "Apa sebenarnya yang kamu tanyakan, apakah ada pertanyaan lain, {name}?",
+            "Apakah pertanyaan tersebut sangat penting buat kamu, {name}?"
+        ],
+        "apa sebenarnya yang aku rasakan": [
+            "Penting bagi kamu, {name}, untuk menyadari dan mengakui perasaanmu sendiri. Apa yang membuatmu bingung tentang perasaanmu?",
+            "Mungkin kamu bisa mencoba merenung sejenak dan mengidentifikasi perasaan yang ada dalam dirimu, {name}."
+        ],
+        "aku (.*) kamu": [
+            "Bicarakan lebih lanjut mengenai perasaanmu terhadap saya, {name}.",
+            "Apakah ada hal khusus yang membuatmu merasa demikian terhadap saya, {name}?"
+        ],
+        "apa yang harus aku lakukan": [
+            "Pertanyaan itu mungkin tergantung pada situasinya, {name}. Bisakah kamu memberikan lebih banyak konteks atau detail?",
+            "Pertama-tama, cobalah untuk tenang dan mengevaluasi situasinya dengan objektif, {name}. Setelah itu, kamu dapat membuat keputusan yang lebih baik."
+        ],
+        "apa yang harus aku lakukan jika (.*)": [
+            "Setiap situasi memiliki cara yang berbeda untuk ditangani, {name}. Bisakah kamu memberikan lebih banyak informasi tentang situasi tersebut?",
+            "Penting untuk mempertimbangkan konteks dan konsekuensi sebelum membuat keputusan, {name}. Ceritakan lebih banyak tentang situasinya."
+        ],
+        "aku sedang jatuh cinta dengan (.*)": [
+            "Bagaimana perasaanmu ketika berada di dekat {0}, {name}?",
+            "Apa yang membuatmu tertarik pada {0}, {name}?",
+            "Ceritakan lebih banyak tentang perasaan cintamu terhadap {0}, {name}."
+        ],
+        "aku lagi naksir sama (.*)": [
+            "Apa yang menarik dari {0} yang membuatmu naksir, {name}?",
+            "Apakah kamu pernah mencoba berinteraksi dengan {0} secara langsung, {name}?",
+            "Bagaimana perasaanmu ketika melihat {0}, {name}?"
+        ],
+        "aku lagi jatuh cinta sama (.*)": [
+            "Apakah {0} menyadari perasaanmu, {name}?",
+            "Apa yang membuatmu jatuh cinta pada {0}, {name}?",
+            "Bagaimana perasaanmu ketika berpikir tentang {0}, {name}?"
+        ],
+        "gw suka banget sama (.*)": [
+            "Apa yang membuatmu suka banget dengan {0}, {name}?",
+            "Apakah kamu berharap untuk memiliki hubungan khusus dengan {0}, {name}?",
+            "Ceritakan lebih banyak tentang perasaan suka bangetmu terhadap {0}, {name}."
+        ],
+        "gw naksir banget sama (.*)": [
+            "Apakah kamu memiliki kesempatan untuk berbicara atau berteman dengan {0}, {name}?",
+            "Apa yang paling menarik dari {0} yang membuatmu naksir banget, {name}?",
+            "Bagaimana perasaanmu ketika melihat {0}, {name}?"
+        ],
+        "saya (.*)": [
+            "Ceritakan lebih lanjut tentang pengalamanmu sebagai {0}, {name}.",
+            "Apa yang membuatmu merasa {0}, {name}?",
+            "Bagaimana perasaanmu ketika menjadi {0}, {name}?",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "saya sedang (.*)": [
+            "Apakah ada alasan khusus mengapa kamu sedang {0}, {name}?",
+            "Bagaimana perasaanmu ketika sedang {0}, {name}?",
+            "Apa yang membuatmu merasa {0} saat ini, {name}?",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "aku sedang (.*)": [
+            "Bagaimana perasaanmu ketika sedang {0}, {name}?",
+            "Apakah ada hal yang mempengaruhi perasaan {0}mu, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu saat sedang {0}, {name}.",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "gw lagi (.*)": [
+            "Apa yang membuatmu sedang {0}, {name}?",
+            "Bagaimana perasaanmu ketika lagi {0}, {name}?",
+            "Ceritakan lebih lanjut tentang pengalamanmu saat lagi {0}, {name}.",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "saya lagi (.*)": [
+            "Apakah ada alasan tertentu mengapa kamu lagi {0}, {name}?",
+            "Bagaimana perasaanmu ketika lagi {0}, {name}?",
+            "Apa yang membuatmu merasa {0} saat ini, {name}?",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "aku lagi (.*)": [
+            "Bagaimana perasaanmu ketika lagi {0}, {name}?",
+            "Apakah ada faktor yang berkontribusi pada perasaan {0}mu, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu saat lagi {0}, {name}.",
+            "Berapa lama kamu merasa {0}, {name}?"
+        ],
+        "nggak tau kenapa (.*)": [
+            "Mungkin kamu perlu sedikit waktu untuk merenung dan memahami perasaanmu terhadap {0}, {name}.",
+            "Tidak apa-apa jika kamu tidak tahu alasan pasti, tapi coba perhatikan perasaanmu ketika berada di sekitar {0}, {name}.",
+            "Terkadang, kita tidak tahu dengan pasti mengapa kita merasakan sesuatu. Bagaimana perasaanmu ketika memikirkan {0}, {name}?"
+        ],
+        "gak tau kenapa merasa (.*)": [
+            "Mungkin kamu bisa mencoba mengidentifikasi situasi atau faktor-faktor tertentu yang mungkin mempengaruhi perasaanmu terhadap {0}, {name}.",
+            "Tidak apa-apa jika kamu tidak mengetahui alasan pasti. Cobalah untuk menjelajahi perasaanmu lebih dalam saat berada di sekitar {0}, {name}.",
+            "Kadang-kadang, perasaan datang tanpa alasan yang jelas. Bagaimana perasaanmu ketika memikirkan {0}, {name}?"
+        ],
+        "gak tau": [
+            "Mungkin kamu bisa merenung sejenak untuk mencari tahu apa yang sedang kamu rasakan atau alasan di balik perasaanmu, {name}.",
+            "Tidak apa-apa jika kamu tidak tahu, tapi cobalah untuk lebih memahami perasaanmu dengan mengamati situasi atau faktor-faktor yang mungkin mempengaruhinya.",
+            "Terkadang, perasaan kita membutuhkan waktu untuk dipahami. Bagaimana kamu menggambarkan perasaanmu saat ini, {name}?"
+        ],
+        "lagi (.*) aja": [
+            "Apa yang membuatmu memilih untuk tetap {0}, {name}?",
+            "Apakah ada alasan khusus yang membuatmu memilih untuk terus {0}, {name}?",
+            "Bagaimana perasaanmu ketika sedang {0}, {name}?"
+        ],
+        "nggak tau": [
+            "Jika kamu merasa bingung, mungkin kamu bisa mencoba merenung sejenak dan mencari tahu apa yang sedang kamu rasakan, {name}.",
+            "Tidak apa-apa jika kamu tidak tahu, tapi cobalah untuk lebih memahami perasaanmu dengan mengamati situasi atau faktor-faktor yang mungkin mempengaruhinya.",
+            "Kadang-kadang, kita membutuhkan waktu untuk memahami perasaan kita dengan lebih baik. Bagaimana kamu menggambarkan perasaanmu saat ini, {name}?"
+        ],
+        "tidak mau": [
+            "Baik, jika kamu tidak ingin bercerita lebih banyak, itu tidak masalah, {name}. Apakah ada hal lain yang ingin kamu diskusikan?",
+            "Jika kamu tidak ingin membicarakannya, tidak masalah. Apakah ada topik lain yang ingin kamu ajukan?",
+            "Tidak apa-apa jika kamu tidak mau bercerita lebih banyak. Apakah ada hal lain yang ingin kamu sampaikan atau diskusikan?"
+        ],
+        "gak mau": [
+            "Baik, jika kamu tidak mau, itu tidak masalah, {name}. Apakah ada hal lain yang ingin kamu diskusikan?",
+            "Jika kamu tidak mau, tidak masalah. Apakah ada topik lain yang ingin kamu ajukan?",
+            "Tidak apa-apa jika kamu tidak mau. Apakah ada hal lain yang ingin kamu sampaikan atau diskusikan?"
+        ],
+        "gak": [
+            "Jika kamu tidak ingin, itu tidak masalah, {name}. Apakah ada hal lain yang ingin kamu diskusikan?",
+            "Jika kamu tidak ingin, tidak masalah. Apakah ada topik lain yang ingin kamu ajukan?",
+            "Tidak apa-apa jika kamu tidak ingin. Apakah ada hal lain yang ingin kamu sampaikan atau diskusikan?"
+        ],
+        "nggak": [
+            "Baik, jika kamu nggak ingin, itu tidak masalah, {name}. Apakah ada hal lain yang ingin kamu diskusikan?",
+            "Jika kamu nggak ingin, tidak masalah. Apakah ada topik lain yang ingin kamu ajukan?",
+            "Tidak apa-apa jika kamu nggak ingin. Apakah ada hal lain yang ingin kamu sampaikan atau diskusikan?"
+        ],
+        "tidak": [
+            "Jika kamu tidak ingin, itu tidak masalah, {name}. Apakah ada hal lain yang ingin kamu diskusikan?",
+            "Jika kamu tidak ingin, tidak masalah. Apakah ada topik lain yang ingin kamu ajukan?",
+            "Tidak apa-apa jika kamu tidak ingin. Apakah ada hal lain yang ingin kamu sampaikan atau diskusikan?"
+        ],
+        "aku (.*) sekali": [
+            "Bagaimana perasaanmu saat menjadi {0} sekali, {name}?",
+            "Apa yang membuatmu merasa sangat {0}, {name}?",
+            "Ceritakan lebih banyak tentang perasaanmu yang sangat {0}, {name}."
+        ],
+        "saya (.*) sekali": [
+            "Apa yang membuatmu jadi {0} sekali, {name}?",
+            "Apa yang membuatmu merasa sangat {0}, {name}?",
+            "Ceritakan lebih banyak tentang perasaanmu yang sangat {0}, {name}."
+        ],
+        "aku (.*) banget": [
+            "Apa yang membuatmu merasa sangat {0}, {name}?",
+            "Bagaimana perasaanmu ketika menjadi {0} banget, {name}?",
+            "Ceritakan lebih banyak tentang perasaanmu yang sangat {0}, {name}."
+        ],
+        "saya (.*) banget": [
+            "Apa yang membuatmu merasa sangat {0}, {name}?",
+            "Bagaimana perasaanmu ketika menjadi {0} banget, {name}?",
+            "Ceritakan lebih banyak tentang perasaanmu yang sangat {0}, {name}."
+        ],
+        "aku tadi dijahati oleh (.*)": [
+            "Itu pasti pengalaman yang sulit, {name}. Bagaimana kamu merasa setelah dijahati oleh {0}?",
+            "Apa yang membuatmu merasa dijahati oleh {0}, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu ketika dijahati oleh {0}, {name}."
+        ],
+        "aku tadi dijahati sama (.*)": [
+            "Itu pasti pengalaman yang sulit, {name}. Bagaimana kamu merasa setelah dijahati oleh {0}?",
+            "Apa yang membuatmu merasa dijahati oleh {0}, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu ketika dijahati oleh {0}, {name}."
+        ],
+        "aku tadi melihat (.*)": [
+            "Bagaimana perasaanmu setelah melihat {0}, {name}?",
+            "Apakah melihat {0} mempengaruhi emosimu, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu ketika melihat {0}, {name}."
+        ],
+        "aku tadi lihat (.*) di kamar mandi": [
+            "Itu pasti pengalaman yang mengejutkan, {name}. Bagaimana kamu merasa setelah melihat {0} di kamar mandi?",
+            "Apa yang ada dalam pikiranmu saat melihat {0} di kamar mandi, {name}?",
+            "Ceritakan lebih banyak tentang pengalamanmu saat melihat {0} di kamar mandi, {name}."
+        ],
+        "ya aku (.*)": [
+            "Maaf jika ada yang membuatmu kesal, {name}. Bagaimana saya bisa membantu kamu dalam hal ini?",
+            "Apa yang membuatmu merasa seperti itu, {name}?",
+            "Ceritakan lebih lanjut tentang perasaanmu saat menjadi {0}, {name}."
+        ],
+        "ya gw (.*)": [
+            "Maaf jika ada yang membuatmu kesal, {name}. Apakah ada yang bisa saya bantu?",
+            "Apa yang membuatmu merasa seperti itu, {name}?",
+            "Ceritakan lebih lanjut tentang perasaanmu saat menjadi {0}, {name}."
+        ],
+        "ya begitulah": [
+            "Saya minta maaf jika ada yang membuatmu kesal, {name}. Apakah ada yang bisa saya bantu?",
+            "Apa yang membuatmu merasa seperti itu, {name}?",
+            "Ceritakan lebih lanjut tentang perasaanmu saat mengatakan begitu, {name}."
+        ],
+        "yagitu": [
+            "Maaf jika ada yang membuatmu kesal, {name}. Apakah ada yang bisa saya bantu?",
+            "Apa yang membuatmu merasa seperti itu, {name}?",
+            "Ceritakan lebih lanjut tentang perasaanmu saat mengatakan begitu, {name}."
+        ],
+        "bodo amat lah": [
+            "Maaf jika ada yang membuatmu kesal, {name}. Apakah ada yang bisa saya bantu?",
+            "Bagaimana saya bisa membantu kamu, {name}?",
+            "Ceritakan lebih lanjut tentang perasaanmu saat mengatakan begitu."
+        ],
+        "hahaha": [
+            "Maaf jika ada yang membuatmu kesal, {name}. Apakah ada yang bisa saya bantu?",
+            "Saya minta maaf jika ada yang tidak lucu. Apakah ada yang ingin kamu sampaikan atau diskusikan, {name}?"
+        ],
+        "karena (.*)": [
+            "Mengapa {0} membuatmu merasa seperti itu, {name}?",
+            "Bagaimana perasaanmu ketika mengalami {0}?",
+            "Ceritakan lebih lanjut tentang hubungan antara {0} dan perasaanmu, {name}."
+        ],
+        "aku (.*) aja, mau ku-(.*) orang itu": [
+            "Hm, perasaanmu terhadap {0} sangat kuat, {name}. Namun, penting untuk menjaga keamanan dan menyelesaikan masalah dengan cara yang positif dan damai. Apakah ada cara lain yang bisa kamu pilih untuk mengatasi masalah ini?",
+            "Saya mengerti bahwa kamu merasa ingin membalas dendam terhadap {1} karena {0}. Namun, penting untuk diingat bahwa balas dendam seringkali tidak membawa kebahagiaan jangka panjang. Apakah ada cara lain untuk menyelesaikan masalah ini tanpa kekerasan?",
+            "Aku mendengar keinginanmu untuk membalas dendam terhadap {1} karena {0}. Namun, marilah kita mencari cara yang lebih positif untuk menyelesaikan masalah ini. Bagaimana pendapatmu?"
+        ],
+        "(?:aku )?(?:mau curhat|butuh teman curhat|pengen curhat|ingin curhat|curhat dong|curcol dong)": [
+            "Tentu, aku di sini untuk mendengarkan. Silakan ceritakan apa yang sedang kamu rasakan, {name}.",
+            "Aku siap mendengarkan curhatanmu. Apa yang ingin kamu ceritakan?",
+            "Jika kamu butuh teman curhat, aku di sini untukmu. Apa yang ingin kamu sampaikan?",
+            "Aku siap mendengarkan curhatanmu, {name}. Silakan ceritakan apa yang sedang membuatmu gelisah atau stres.",
+            "Saat kamu siap, ceritakan apa yang ingin kamu curhatkan. Aku di sini untuk mendengarkan."
+        ],
+        "(?:aku )?(?:sedang panik|panik|gelisah|depresi|stres|lagi stres|lagi gelisah|lagi kesal|kesal|putus asa|cemas|sedih|marah|frustrasi|tertekan|terbebani|khawatir|kecewa|sakit hati|takut|malu|frustrasi|bingung|lelah|sia-sia|kecewa|bosan|jengkel|tersinggung)": [
+            "Aku mendengar kamu sedang mengalami perasaan {0}, {name}. Berceritalah lebih lanjut, aku di sini untuk mendengarkan.",
+            "Jika kamu ingin mengungkapkan perasaan {0}, aku di sini untuk mendengarkan. Apa yang sedang kamu alami?",
+            "Aku siap mendengarkan dan mendukungmu dalam menghadapi perasaan {0}, {name}. Ceritakan lebih lanjut tentang apa yang sedang kamu rasakan.",
+            "Aku di sini untukmu. Jika kamu ingin berbagi tentang perasaan {0} yang sedang terjadi, silakan ceritakan lebih lanjut."
+        ],
+        "(?:ngomong apasih|dasar gaje|ye gaje|gajelas|dasar gajelas|ye gajelas|apasih goblok|gajelas tolol|gaje|gaje lu|apasih)": [
+            "Maaf kalau responsku kurang memuaskan, {name}. Apa yang sebenarnya ingin kamu ceritakan?",
+            "Mungkin ada kesalahan dalam responsku, {name}. Ceritakanlah lebih detail agar aku bisa lebih memahamimu.",
+            "Saya minta maaf jika responsku tidak sesuai harapan, {name}. Apa yang ingin kamu ceritakan?",
+            "Aku minta maaf jika responsku tidak memuaskan, {name}. Berceritalah lebih lanjut, aku di sini untuk mendengarkan."
+        ]
+    },
+    "default_responses": [
+        "Kok bisa begitu, {name}?",
+        "Coba ceritakan lebih dalam lagi, {name}.",
+        "Terus-terus, {name}?",
+        "Mau dong cerita lengkapnya, {name}!",
+        "Kok bisa begitu, {name}? Aku jadi penasaran.",
+        "Menurutmu kenapa bisa begitu, {name}?",
+        "Waduh, gimana tuh, {name}?",
+        "Kamu merasa apa tuh abis itu, {name}?",
+        "Kamu merasa gimana tuh abis itu, {name}?",
+        "Kamu merasa apa, {name}?",
+        "Kamu merasa gimana, {name}?",
+        "Terus gimana, {name}?"
+    ],
+    "therapist_keywords": [
+        "therapist",
+        "aku mau curhat",
+        "aku mau curhat dong",
+        "aku butuh teman curhat",
+        "curhat",
+        "mau curhat",
+        "pengen curhat",
+        "ingin curhat",
+        "curhat dong",
+        "curcol dong",
+        "aku sedang panik",
+        "aku panik",
+        "aku gelisah",
+        "aku depresi",
+        "aku stres",
+        "aku lagi stres",
+        "aku kesal",
+        "aku putus asa",
+        "aku cemas",
+        "aku sedih",
+        "aku marah",
+        "aku frustasi",
+        "aku tertekan",
+        "aku terbebani",
+        "aku khawatir",
+        "aku kecewa",
+        "aku sakit hati",
+        "aku takut",
+        "aku malu",
+        "aku bingung",
+        "aku lelah",
+        "aku sia-sia",
+        "aku bosan",
+        "aku jengkel",
+        "aku tersinggung",
+        "aku kehilangan",
+        "aku merasa hampa",
+        "aku merasa sendirian",
+        "aku terluka",
+        "aku patah hati",
+        "aku tidak berdaya",
+        "aku cemburu",
+        "aku gelap mata",
+        "aku frustrasi",
+        "aku kecewa pada diri sendiri",
+        "aku merasa tidak berarti",
+        "aku tidak punya harapan",
+        "aku kelelahan",
+        "aku kesepian",
+        "aku merasa diabaikan",
+        "aku merasa takut masa depan",
+        "aku khawatir tentang hidupku",
+        "aku bingung dengan diriku sendiri",
+        "aku terjebak dalam keputusasaan",
+        "aku merasa tidak dicintai",
+        "aku merasa tidak diperhatikan",
+        "aku merasa terasing",
+        "aku merasa tidak memiliki kendali",
+        "aku merasa terjebak dalam masalah",
+        "aku merasa tidak bisa mengatasinya",
+        "aku merasa terpuruk",
+        "gemes",
+        "galau",
+        "bete",
+        "mager",
+        "baper",
+        "kepo",
+        "gapapa",
+        "bingung",
+        "bosan",
+        "jenuh",
+        "hancur",
+        "bodoh",
+        "sumpah",
+        "ciyee",
+        "gue",
+        "nangis",
+        "seneng",
+        "kece",
+        "asik",
+        "anxiety",
+        "gila",
+        "cringe",
+        "awkward",
+        "mood",
+        "trigger",
+        "apatis",
+        "fomo",
+        "deadline",
+        "self-doubt",
+        "sks",
+        "procrastination",
+        "sok cool",
+        "yasudahlah",
+        "capek",
+        "jijik",
+        "nyesek",
+        "santai",
+        "ambigu",
+        "bodo amat",
+        "garing",
+        "gemesin",
+        "jatuh cinta",
+        "naksir",
+        "patah hati",
+        "ngebetein",
+        "nyesekin",
+        "ngebosenin",
+        "bikin stres",
+        "capek banget",
+        "kepo banget",
+        "ga enak",
+        "keki",
+        "galau banget",
+        "gemes banget",
+        "ingin curhat",
+        "ingin cerita",
+        "mau cerita",
+        "mau banget curhat",
+        "pengen banget cerita"
+    ],
+    "exit_keywords": [
+        "terima kasih, jarwo",
+        "makasi",
+        "terima kasih",
+        "makasi jarwo",
+        "terima kasih, jarwo",
+        "makasi, jarwo",
+        "tq jarwo",
+        "tq",
+        "ya itu aja",
+        "ya begitu aja",
+        "ya udah gitu aja",
+        "udah gitu aja",
+        "daa",
+        "daaa",
+        "dadaaah",
+        "dadah",
+        "udah kayaknya gitu aja",
+        "udah kayaknya gitu aja deh",
+        "ya udah makasi",
+        "ya makasi",
+        "oke makasi",
+        "oke tq",
+        "oke terima kasih"
+    ]
+}
